@@ -1,7 +1,7 @@
 # Basic Github Steps
 
 # 1) Fork the repo
-   This will make a copy of the repository on your Github account.
+   *This will make a copy of the repository on your Github account.
    It is important to do this step first, or you won't be able to save the changes you make to the code.
    Remember: 
     This is a button on the github website up in the right hand corner of the repo you want to copy
